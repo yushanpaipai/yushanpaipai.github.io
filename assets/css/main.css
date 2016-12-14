@@ -3394,7 +3394,7 @@
 		overflow: hidden;
 		position: relative;
 		text-align: center;
-        background-image: url("/images/hupai.jpg");
+        /* background-image: url("/images/hupai.jpg"); */
         /* background-size: 100%; */
 	}
 
