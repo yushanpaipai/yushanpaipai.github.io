@@ -3814,3 +3814,20 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+
+    #three .inner {
+      width: 100%
+    }
+
+    .history {
+      list-style-type: none;
+    }
+    .history li{
+      display: inline;
+    }
+    .history li img {
+      width: 300px;
+      height: 300px;
+    }
